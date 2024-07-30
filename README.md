@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amandasmith930
-- 👀 I’m interested in developing innovating software to give back to others and make a positive difference in society through technology
+- 👀 I’m interested in developing innovative software to give back to others and make a positive difference in society
 - 🌱 I’m currently learning Introduction to Machine Learning, Operating Systems, Computer Networking Fundamentals, and UX Design at the University of Florida
 - 💞️ I’m looking to collaborate on AI initiatives, and I am specifically interested in medical technologies.
 - 📫 How to reach me ... Linkedin! https://www.linkedin.com/in/amanda-smith33/
